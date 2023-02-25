@@ -1,2 +1,2 @@
-# mini-project-1
+# Mini-Project-1
 This Mini Project is due on March 17.
